@@ -1,2 +1,2 @@
-# sysDiffieHellman
-Diffie Hellman
+# Diffie Hellman
+Thuật toán Diffie Hellman
