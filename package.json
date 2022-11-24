@@ -1,0 +1,20 @@
+{
+  "name": "sysdiffiehellman",
+  "version": "1.0.0",
+  "description": "Thuật toán Diffie Hellman",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/system01no2l/sysDiffieHellman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/system01no2l/sysDiffieHellman/issues"
+  },
+  "homepage": "https://github.com/system01no2l/sysDiffieHellman#readme",
+  "dependencies": {}
+}
